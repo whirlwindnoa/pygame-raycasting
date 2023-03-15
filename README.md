@@ -13,3 +13,4 @@ controls are WASD to move around and left-right arrows to look around
 
 # demonstration
 ![demo](https://user-images.githubusercontent.com/30073032/225340374-72454b38-d31f-498f-9adf-780014be41ec.gif)
+![demo_map](https://user-images.githubusercontent.com/30073032/225340617-2729f8ba-c19a-4940-afff-655f62143480.gif)
