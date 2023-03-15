@@ -3,8 +3,8 @@ import math
 # Essential constants
 class Config:
     # Game Configuration
-    WIDTH = 1200
-    HEIGHT = 800
+    WIDTH = 800
+    HEIGHT = 600
     FPS = 60
 
     TILE = 100
